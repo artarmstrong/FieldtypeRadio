@@ -1,4 +1,4 @@
-# ProcessWire FieldTypeRadio
+# ProcessWire - FieldTypeRadio
 
 This ProcessWire module produces a radio input that would allow you to define a list of options in the field's configuration from which to select a value.
 
