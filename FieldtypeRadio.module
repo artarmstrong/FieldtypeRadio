@@ -40,7 +40,7 @@ class FieldtypeRadio extends Fieldtype {
 	public static function getModuleInfo() {
 		return array(
 		'title' => 'Radio',
-		'version' => 120,
+		'version' => 100,
 		'summary' => 'This Fieldtype stores a list of values from which to choose via a "radio" input field.'
 		);
 	}
